@@ -1,0 +1,5 @@
+highscore.dat
+*.class
+.idea
+*.iml
+out
