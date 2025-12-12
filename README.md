@@ -7,7 +7,8 @@
 | Hartmann Kanisius Galla' Massang | 5025241160 | 
 
 ## Deskripsi :
-Snakey adalah permainan Java dengan Pemrograman Berbasis Objek. 
+Snakey adalah permainan Java dengan Pemrograman Berbasis Objek. Berbeda dengan permainan Snake klasik, Snakey menambahkan elemen baru berupa item bomb yang harus dihindari oleh pemain selama permainan berlangsung.
+
 Prinsip-prinsip Pemrograman Berbasis Objek yang diterapkan :
 - **Class & Object**: Setiap entity (Snake, Apple, Bomb) adalah object dari class
 - **Inheritance & Polymorphism**: `Item` (abstract) → `Apple`, `Bomb`. Juga melakukan override pada `applyEffect()` & `checkCollision()`.
