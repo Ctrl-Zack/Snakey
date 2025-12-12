@@ -82,4 +82,4 @@ java -cp out src.SnakeGame
 [Ctrl-Zack/Snakey](https://github.com/Ctrl-Zack/Snakey)
 
 ## Link Video Demo :
-[Demo Snakey]()
+[Demo Snakey](https://youtu.be/LSeXto3KfX8)
